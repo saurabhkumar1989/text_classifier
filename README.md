@@ -1,7 +1,7 @@
 **Short Text Classifier**
 ===================
-
-
+Overall system architecture
+![enter image description here](https://raw.githubusercontent.com/saurabhkumar1989/text_classifier/master/files/overall.PNG)
 Aim
 -------------
 
