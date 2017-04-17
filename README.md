@@ -11,7 +11,7 @@ Extract and classify twitter post for to locate traffic Incidents.
 Methodology 
 -------------------
 
-Used Tf-Idf for text feature extraction and Neural Network (NN) for the classification.
+Used Bag of words for text feature extraction and Neural Network (NN) for the classification.
 
 ![enter image description here](https://raw.githubusercontent.com/saurabhkumar1989/text_classifier/master/files/NN.PNG)
 
