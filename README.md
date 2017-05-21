@@ -27,5 +27,5 @@ Classifier, when tested on the 10000 tweets, gives accuracy of **92%**
 Shortcomings
 --------------------
 
-When data set increased classifier accuracy reduces drastically and that motivates me to go for the deep learning. Here is the detail report
+When data set increased classifier accuracy reduces drastically and that motivates me to go for the deep learning. Here is the detail reportsdsdsd
 [***Report***](https://github.com/saurabhkumar1989/text_classifier/blob/master/files/FInal%20Report.pdf
